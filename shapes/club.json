@@ -1,0 +1,25 @@
+{
+  "layout":
+  {
+    "conductor":
+    {
+      "shapes":
+      [
+        {
+          "font-family": "Helsinki-webfont", 
+          "font-size": "3.8mm", 
+          "letter-spacing": "0mm", 
+          "line-height": "4mm", 
+          "location": [
+            0, 
+            0
+          ],
+          "layers": ["bottom"],
+          "style": "fill", 
+          "type": "text", 
+          "value": "Boldport Club, project   32"
+        }
+      ]
+    }
+  }
+}

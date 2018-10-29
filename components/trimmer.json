@@ -1,0 +1,82 @@
+{
+"pins":
+  {
+  "1-CCW":
+    {	
+      "layout": 
+      {
+        "pad": "th", 
+        "location": [-2.54, -1.27]
+      }
+    },
+  "2-W":
+    {
+      "layout": 
+      {
+        "pad": "th", 
+        "location": [0, 1.27]
+      }
+    },
+  "3-CW":
+    {	
+      "layout": 
+      {
+        "pad": "th", 
+        "location": [2.54, -1.27]
+      }
+    }
+  },
+  "layout":
+  {
+    "silkscreen":
+    {
+      "shapes":
+      [
+      ]
+    },
+    "assembly":
+    {
+      "shapes":
+      [
+	{
+          "type": "rect",
+          "width": 9.53,
+          "height": 4.83
+	}
+      ]
+    }
+  },
+  "pads":
+  {
+    "smd":
+    {
+      "shapes":
+      [
+	{
+	  "type": "rect",
+	  "outline": 0,
+	  "width": 4,
+	  "height": 1.6
+	}
+      ]
+    },
+    "th":
+    {
+      "origin": [0, 0],
+      "shapes":
+      [
+        {
+	  "layers": ["top", "bottom"],
+	  "type": "circle",
+	  "diameter": 1.4
+	}
+      ],
+      "drills":
+      [
+        {
+          "diameter": 0.7
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,534 @@
+{
+  "components": {
+    "CAP-IN": {
+      "footprint": "cap-elec", 
+      "layer": "top", 
+      "location": [
+        -21.844007, 
+        -6.854892
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }, 
+        "shapes": {
+          "show": false
+        }
+      }
+    }, 
+    "CAP-U": {
+      "footprint": "TH-7P62-0805", 
+      "layer": "top", 
+      "location": [
+        12.162403, 
+        2.216397
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "CL": {
+      "footprint": "TH-7P62-0805", 
+      "layer": "top", 
+      "location": [
+        -26.077343, 
+        -2.318612
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "CT": {
+      "footprint": "TH-7P62-0805", 
+      "layer": "top", 
+      "location": [
+        12.162403, 
+        -3.831145
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "H1": {
+      "footprint": "hole-2p5mm", 
+      "layer": "top", 
+      "location": [
+        -37.6, 
+        7.65
+      ], 
+      "rotation": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "H2": {
+      "footprint": "hole-2p5mm", 
+      "layer": "top", 
+      "location": [
+        -37.6, 
+        -7.65
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "J1": {
+      "footprint": "header-6", 
+      "layer": "top", 
+      "location": [
+        38.0, 
+        0
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "J2": {
+      "footprint": "header-4", 
+      "layer": "top", 
+      "location": [
+        -38.0, 
+        0
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "J3": {
+      "footprint": "solder-blob-jumper", 
+      "layer": "top", 
+      "location": [
+        -29.098979, 
+        -6.734786
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "LED": {
+      "footprint": "led", 
+      "layer": "top", 
+      "location": [
+        29.220253, 
+        -0.219123
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }, 
+        "shapes": {
+          "show": false
+        }
+      }
+    }, 
+    "LED-R": {
+      "footprint": "TH-7P62-0805", 
+      "layer": "top", 
+      "location": [
+        12.162403, 
+        -6.854892
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "OUT-PU": {
+      "footprint": "TH-7P62-0805", 
+      "layer": "top", 
+      "location": [
+        -12.400502, 
+        -6.854233
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "Q1": {
+      "footprint": "2N7000-TO92", 
+      "layer": "top", 
+      "location": [
+        29.220253, 
+        -6.53373
+      ], 
+      "rotate": 180, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }, 
+        "shapes": {
+          "show": false
+        }
+      }
+    }, 
+    "RL-1": {
+      "footprint": "TH-7P62-0805", 
+      "layer": "top", 
+      "location": [
+        -12.424835, 
+        2.216349
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "RL-2": {
+      "footprint": "TH-7P62-0805", 
+      "layer": "top", 
+      "location": [
+        -26.077343, 
+        2.217007
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "RS": {
+      "footprint": "TH-7P62-0805", 
+      "layer": "top", 
+      "location": [
+        -12.424835, 
+        -2.318612
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "RT-1": {
+      "footprint": "TH-7P62-0805", 
+      "layer": "top", 
+      "location": [
+        12.162403, 
+        -0.807398
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "RT-2": {
+      "footprint": "trimmer", 
+      "layer": "top", 
+      "location": [
+        21.844007, 
+        -2.645833
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "U1": {
+      "footprint": "IC-LM331-DIP8", 
+      "layer": "top", 
+      "location": [
+        0, 
+        -2.645833
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }
+  }, 
+  "config": {
+    "name": "pease-2ed", 
+    "no-docs": false, 
+    "no-drill-index": false, 
+    "no-flashes": false, 
+    "no-layer-index": false, 
+    "rev": "A", 
+    "style-layout": "default", 
+    "units": "mm"
+  }, 
+  "distances": {
+    "from-pour-to": {
+      "drill": 0.4, 
+      "outline": 0.25, 
+      "pad": 0.3, 
+      "route": 0.25
+    }, 
+    "soldermask": {
+      "circle-buffer": 0.05, 
+      "path-scale": 1.05, 
+      "rect-buffer": 0.05
+    }, 
+    "solderpaste": {
+      "circle-buffer": -0.1, 
+      "path-scale": 0.9, 
+      "rect-buffer": -0.1
+    }
+  }, 
+  "documentation": {
+    "board-details": {
+      "font-family": "Overlock-Regular-OTF-webfont", 
+      "font-size": "1.5mm", 
+      "letter-spacing": "0mm", 
+      "line-height": "1.5mm", 
+      "location": [
+        -27.630572, 
+        -23.32992
+      ], 
+      "rotate": 0, 
+      "style": "fill", 
+      "type": "text", 
+      "value": "Board details:\nName: Pease 2nd edition\nRevision: A\nDescription: A tribute to Bob Pease\nLicense: MIT\nCompany: Boldport Limited\nDesigner: Saar Drimer, saar@boldport.com"
+    }, 
+    "manufacturing": {
+      "font-family": "Overlock-Regular-OTF-webfont", 
+      "font-size": "1.5mm", 
+      "letter-spacing": "0mm", 
+      "line-height": "1.5mm", 
+      "location": [
+        -24.46651, 
+        -36.561919
+      ], 
+      "rotate": 0, 
+      "style": "fill", 
+      "type": "text", 
+      "value": "Manufacturing:\nRoHS and lead free compliant manufacturing process\nUnit of length: Millimetre (mm)\nNumber of layers: 2 ('top', 'bottom')\nBoard thickness: 1.6 mm\nMaterial: FR4 35/35 um copper\nSilkscreen: top (white), bottom (white)\nSoldermask: top (green), bottom (green)\nSurface finish: lead free"
+    }, 
+    "pcbmode": {
+      "font-family": "Overlock-Regular-OTF-webfont", 
+      "font-size": "1.2mm", 
+      "letter-spacing": "0mm", 
+      "line-height": "1.2mm", 
+      "location": [
+        -28.276495, 
+        -47.335362
+      ], 
+      "rotate": 0, 
+      "style": "fill", 
+      "type": "text", 
+      "value": "Designed with PCBmodE, an open source software\n     http://pcbmode.com\nStay updated:\n     @boldport @pcbmode http://boldport.com"
+    }
+  }, 
+  "drill-index": {
+    "location": [
+      -40.0, 
+      -70.208337
+    ]
+  }, 
+  "files": {
+    "routing-data": "pease-2ed_routing.json", 
+    "routing-svg": "pease-2ed.svg"
+  }, 
+  "gerber": {
+    "decimals": 6, 
+    "digits": 6, 
+    "min-segment-length": 0.05, 
+    "steps-per-segment": 100
+  }, 
+  "layer-control": {
+    "assembly": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "conductor": {
+      "hide": false, 
+      "lock": false, 
+      "pads": {
+        "hide": false, 
+        "lock": false, 
+        "place": true
+      }, 
+      "place": true, 
+      "pours": {
+        "hide": false, 
+        "lock": true, 
+        "place": true
+      }, 
+      "routing": {
+        "hide": false, 
+        "lock": false, 
+        "place": true
+      }
+    }, 
+    "dimensions": {
+      "hide": false, 
+      "lock": true, 
+      "place": true
+    }, 
+    "documentation": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "drills": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "origin": {
+      "hide": false, 
+      "lock": true, 
+      "place": true
+    }, 
+    "outline": {
+      "hide": false, 
+      "lock": true, 
+      "place": true
+    }, 
+    "placement": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "silkscreen": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "soldermask": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "solderpaste": {
+      "hide": true, 
+      "lock": true, 
+      "place": true
+    }
+  }, 
+  "outline": {
+    "measurements": {
+      "font": "UbuntuMono-R-webfont", 
+      "scale": 0.0008
+    }, 
+    "shape": {
+      "height": 20, 
+      "radii": {
+        "bl": 2.5, 
+        "br": 2.5, 
+        "tl": 2.5, 
+        "tr": 2.5
+      }, 
+      "type": "rect", 
+      "width": 80
+    }
+  }, 
+  "physical": {
+    "stackup": [
+      "top", 
+      "bottom"
+    ]
+  }, 
+  "shapes": {
+    "CLUB": {
+      "footprint": "club", 
+      "layer": "top", 
+      "location": [
+        -3.460525, 
+        5.544964
+      ], 
+      "rotation": 0, 
+      "show": true
+    }, 
+    "LOGO": {
+      "footprint": "boldport-logo-b", 
+      "layer": "bottom", 
+      "location": [
+        -33.964705, 
+        -8.410709
+      ], 
+      "rotation": 0, 
+      "scale": 0.45, 
+      "show": true
+    }, 
+    "QTY": {
+      "footprint": "quote", 
+      "layer": "top", 
+      "location": [
+        0, 
+        6.613333
+      ], 
+      "rotation": 0, 
+      "show": true
+    }, 
+    "SCHEM": {
+      "footprint": "schematics", 
+      "layer": "top", 
+      "location": [
+        -1.574018, 
+        -1.603427
+      ], 
+      "rotation": 0, 
+      "show": true
+    }, 
+    "SYMB": {
+      "footprint": "symbols", 
+      "layer": "top", 
+      "location": [
+        3.50996, 
+        -2.962041
+      ], 
+      "rotation": 0, 
+      "show": true
+    }
+  }
+}
