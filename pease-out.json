@@ -330,13 +330,13 @@
       "letter-spacing": "0mm", 
       "line-height": "1.5mm", 
       "location": [
-        -27.630572, 
-        -23.32992
+        -27.136745, 
+        -16.41634
       ], 
       "rotate": 0, 
       "style": "fill", 
       "type": "text", 
-      "value": "Board details:\nName: Pease 2nd edition\nRevision: A\nDescription: A tribute to Bob Pease\nLicense: MIT\nCompany: Boldport Limited\nDesigner: Saar Drimer, saar@boldport.com"
+      "value": "Board details:\nName: pease-out\nRevision: A\nDescription: A tribute to Bob Pease\nLicense: MIT\nCompany: Boldport Limited\nDesigner: Saar Drimer, saar@boldport.com"
     }, 
     "manufacturing": {
       "font-family": "Overlock-Regular-OTF-webfont", 
@@ -344,8 +344,8 @@
       "letter-spacing": "0mm", 
       "line-height": "1.5mm", 
       "location": [
-        -24.46651, 
-        -36.561919
+        -23.972683, 
+        -29.648339
       ], 
       "rotate": 0, 
       "style": "fill", 
@@ -358,8 +358,8 @@
       "letter-spacing": "0mm", 
       "line-height": "1.2mm", 
       "location": [
-        -28.276495, 
-        -47.335362
+        -27.782668, 
+        -40.421782
       ], 
       "rotate": 0, 
       "style": "fill", 
