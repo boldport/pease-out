@@ -493,7 +493,7 @@
       "footprint": "boldport-logo-b", 
       "layer": "bottom", 
       "location": [
-        -33.964705, 
+        -33.652204, 
         -8.410709
       ], 
       "rotate": 0, 
@@ -504,10 +504,10 @@
       "footprint": "polarity", 
       "layer": "top", 
       "location": [
-        35.40482, 
-        6.515448
+        21.712111, 
+        3.635417
       ], 
-      "rotate": -45, 
+      "rotate": 0, 
       "scale": 0.95, 
       "show": true
     }, 
@@ -535,8 +535,8 @@
       "footprint": "symbols", 
       "layer": "top", 
       "location": [
-        3.50996, 
-        -2.962041
+        4.684981, 
+        0.036182
       ], 
       "rotate": 0, 
       "show": true
