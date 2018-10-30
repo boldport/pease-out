@@ -486,7 +486,7 @@
         -3.460525, 
         5.544964
       ], 
-      "rotation": 0, 
+      "rotate": 0, 
       "show": true
     }, 
     "LOGO": {
@@ -496,8 +496,19 @@
         -33.964705, 
         -8.410709
       ], 
-      "rotation": 0, 
+      "rotate": 0, 
       "scale": 0.45, 
+      "show": true
+    }, 
+    "POL": {
+      "footprint": "polarity", 
+      "layer": "top", 
+      "location": [
+        35.40482, 
+        6.515448
+      ], 
+      "rotate": -45, 
+      "scale": 0.95, 
       "show": true
     }, 
     "QTY": {
@@ -507,17 +518,17 @@
         0, 
         6.613333
       ], 
-      "rotation": 0, 
+      "rotate": 0, 
       "show": true
     }, 
     "SCHEM": {
       "footprint": "schematics", 
       "layer": "top", 
       "location": [
-        -1.574018, 
-        -1.603427
+        -1.697475, 
+        0.082838
       ], 
-      "rotation": 0, 
+      "rotate": 0, 
       "show": true
     }, 
     "SYMB": {
@@ -527,7 +538,7 @@
         3.50996, 
         -2.962041
       ], 
-      "rotation": 0, 
+      "rotate": 0, 
       "show": true
     }
   }
