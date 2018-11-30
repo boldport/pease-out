@@ -17,6 +17,14 @@
         "location": [0, 1.27]
       }
     },
+  "2-EXTRA":
+    {
+      "layout": 
+      {
+        "pad": "th", 
+        "location": [0, -1.27]
+      }
+    },
   "3-CW":
     {	
       "layout": 
